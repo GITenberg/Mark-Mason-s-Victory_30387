@@ -1,0 +1,42 @@
+_repo: Mark-Mason-s-Victory_30387
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30387-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    - Alger, Horatio
+    - Jr., Horatio Alger
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcsh 'Stocks -- Juvenile fiction'
+- !lcsh 'Cruelty -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+- !lcsh 'Telegraph -- Employees -- Juvenile fiction'
+title: Mark Mason's Victory
+url: http://www.gutenberg.org/ebooks/30387
